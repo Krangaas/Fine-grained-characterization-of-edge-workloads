@@ -1,0 +1,5 @@
+vm 6
+vm-method cache-stripe
+vm-bytes 100%
+vm-ops 140000
+timeout 10s

@@ -1,0 +1,5 @@
+cpu 3
+cpu-method correlate
+hdd 3
+hdd-opts iovec
+timeout 10s

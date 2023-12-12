@@ -1,0 +1,4 @@
+hdd 6
+hdd-opts dsync
+hdd-bytes 100%
+timeout 10s

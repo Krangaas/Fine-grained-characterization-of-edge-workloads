@@ -1,0 +1,5 @@
+vm 6
+vm-method read64
+vm-bytes 100%
+vm-addr-ops 300000
+timeout 10s

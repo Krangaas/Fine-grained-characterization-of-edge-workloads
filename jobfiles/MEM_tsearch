@@ -1,0 +1,3 @@
+tsearch 6
+tsearch-size 40 000
+timeout 10s

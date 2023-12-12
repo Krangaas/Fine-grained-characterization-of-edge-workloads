@@ -1,0 +1,3 @@
+cpu 6
+cpu-method fft
+timeout 10s

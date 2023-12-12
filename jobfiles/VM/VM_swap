@@ -1,0 +1,5 @@
+vm 6
+vm-bytes 100%
+vm-method swap
+vm-addr-ops 17000
+timeout 10s

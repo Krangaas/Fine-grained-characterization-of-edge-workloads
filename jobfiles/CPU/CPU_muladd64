@@ -1,0 +1,3 @@
+hash 6
+hash-method muladd64
+timeout 10s

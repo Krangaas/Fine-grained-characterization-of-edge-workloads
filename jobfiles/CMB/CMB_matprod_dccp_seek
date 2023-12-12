@@ -1,0 +1,5 @@
+cpu 3
+dccp 2
+seek 1
+cpu-method matrixprod
+timeout 10s

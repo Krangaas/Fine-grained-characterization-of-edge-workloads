@@ -1,0 +1,5 @@
+vm 6
+vm-method write64
+vm-bytes 100%
+vm-addr-ops 65000
+timeout 10s

@@ -1,0 +1,5 @@
+hdd 6
+hdd-opts iovec
+hdd-write-size 1024
+hdd-bytes 100%
+timeout 10s

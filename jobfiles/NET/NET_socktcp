@@ -1,0 +1,6 @@
+####################### NOTE #######################
+This job causes some issues for papiex, skip for now
+####################################################
+sock 6
+sock-protocol tcp
+timeout 10s

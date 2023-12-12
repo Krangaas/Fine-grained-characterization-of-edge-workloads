@@ -1,0 +1,3 @@
+hdd 6
+hdd-opts syncfs,utimes
+timeout 10s
